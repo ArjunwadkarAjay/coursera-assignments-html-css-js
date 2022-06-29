@@ -14,8 +14,8 @@ p {
     height: 150px;
     margin-right: auto;
     margin-left: auto;
-    font-family: Helvetica;
-    color:white;
+    font-family: "Times";
+    color: black;
   }
 #p1{
     background-color: #A52A2A;
