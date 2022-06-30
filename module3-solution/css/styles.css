@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    font-size: 16px;
+}
+.mainhead{
+    color: black;
+
+}
+.menulist{
+    width: 75%;
+}
+.menuitem{
+    background-color: rgb(156, 156, 156);
+    color: black;
+    margin-top:10px;
+    margin-bottom: 30px;
+}
+/* .brand{
+    color:black;
+} */
+nav>div {
+    background-color: rgb(156, 156, 156);
+}
+.menuhead{
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    
+}
+.navbar li{
+    text-align: center;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+.navbar-brand > span{
+    color: black;
+    font-size: 32px;
+    margin-left: 20px;
+}
